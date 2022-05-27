@@ -8,3 +8,4 @@
 brian ogoti/brianogoti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[COPY+OF+Resume-BRIAN-OGOTI.pdf](https://github.com/bryannixons/bryannixons/files/8789646/COPY%2BOF%2BResume-BRIAN-OGOTI.pdf)
